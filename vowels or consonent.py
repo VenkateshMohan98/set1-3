@@ -3,7 +3,7 @@ aph =['b','c','d','f','g','h','j','k','l','m','n','p','q','r','s','t','v''w','x'
 vowels=['a','e','i','o','u']
 v = v.casefold()
 if v in vowels:
-  print("Vowels")
+  print("Vowel")
 elif v in aph:
   print("Consonant")
 else:
